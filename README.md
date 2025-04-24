@@ -1,6 +1,4 @@
-# Leetcode-GeekForGeeks-Coding-Problems---Python-Programming
-& Java Programming 
-
+# Leetcode-GeekForGeeks-Coding-Problems---Python-Programming& Java Programming 
 QUESTION : (Python Programming Question)
 There are two friends, John and Smith, and the parameters j_angry and s_angry to indicate if each is angry. You are in trouble if both of them are angry or no one of them is angry.
 
