@@ -13,6 +13,8 @@ Output:
 True
 Explanation:
 Since both of them are angry, you are in trouble.
+
+
 Example 2:
 
 Input:
